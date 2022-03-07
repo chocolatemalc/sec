@@ -1,1 +1,1 @@
-# sec
+# Assorted pentesting scripts 
