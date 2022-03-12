@@ -1,6 +1,6 @@
 <img src="" alt="Logo of the project" align="right">
 
-# Security &middot
+# Security &middot;
 
 > Practicing
 
